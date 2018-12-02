@@ -18,9 +18,9 @@ IETF draft documents do not correspond directly with meta-schema draft numbers, 
 
 The next unreleased draft is a work in progress.  You can [give feedback and get involved on GitHub](https://github.com/json-schema-org/json-schema-spec).
 
- - Core: [jsonschema-core.xml](https://github.com/json-schema-org/json-schema-spec/blob/master/jsonschema-core.xml)
- - Validation: [jsonschema-validation.xml](https://github.com/json-schema-org/json-schema-spec/blob/master/jsonschema-validation.xml)
- - Hyper-Schema: [jsonschema-hyperschema.xml](https://github.com/json-schema-org/json-schema-spec/blob/master/jsonschema-hyperschema.xml)
+ - Core: [jsonschema-core-latest.html](https://ci.appveyor.com/api/projects/json-schema-org/json-schema-spec/artifacts/output/jsonschema-core-latest.html?branch=master)
+ - Validation: [jsonschema-validation-latest.html](https://ci.appveyor.com/api/projects/json-schema-org/json-schema-spec/artifacts/output/jsonschema-validation-latest.html?branch=master)
+ - Hyper-Schema: [jsonschema-hyperschema-latest.html](https://ci.appveyor.com/api/projects/json-schema-org/json-schema-spec/artifacts/output/jsonschema-hyperschema-latest.html?branch=master)
 - [JSON Schema meta-schema](https://github.com/json-schema-org/json-schema-spec/blob/master/schema.json)
 - [JSON Hyper-Schema meta-schema](https://github.com/json-schema-org/json-schema-spec/blob/master/hyper-schema.json)
 - [JSON Hyper-Schema Link Description Object meta-schema](https://github.com/json-schema-org/json-schema-spec/blob/master/links.json)
